@@ -1,0 +1,29 @@
+_repo: Recollections-and-impressions-of-James-A-McNeill-Whistler_68447
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eddy, Arthur Jerome
+    alias: Chauffeur
+    birthdate: 1859
+    deathdate: 1920
+    gutenberg_agent_id: '3246'
+    url: http://www.gutenberg.org/2009/agents/3246
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Jerome_Eddy
+description: ''
+gutenberg_issued: '2022-07-02'
+identifiers:
+  gutenberg: '68447'
+language: en
+pgterms:marc905: 20210328044305eddy
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: United States :J.B. Lippincott Company,1903.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Recollections and impressions of James A. McNeill Whistler
+url: http://www.gutenberg.org/ebooks/68447
